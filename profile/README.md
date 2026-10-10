@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.jpg" alt="Melty" width="920">
+<img src="https://i.imgur.com/lvG0hwc.jpeg" alt="Melty" width="920">
 
 # Melty
 
@@ -22,7 +22,7 @@
 
 Melty is a free Windows app for **mashups and mods**. A mashup joins two games into one world. SkyCraft is Skyrim played as a Minecraft character. Elden Craft is Minecraft plus Elden Ring. You keep your own copies of the games — Melty just starts them together.
 
-<img src="card-play.jpg" alt="Press Play" width="920">
+<img src="https://i.imgur.com/XZZYJkU.jpeg" alt="Press Play" width="920">
 
 ---
 
@@ -42,9 +42,9 @@ Uninstall puts every file back the way it was.
 ## Featured mashups
 
 <p align="center">
-  <img src="card-skycraft.jpg" alt="SkyCraft" width="450">
+  <img src="https://i.imgur.com/mow9TPI.jpeg" alt="SkyCraft" width="450">
   &nbsp;
-  <img src="card-eldencraft.jpg" alt="Elden Craft" width="450">
+  <img src="https://i.imgur.com/VeN7p70.jpeg" alt="Elden Craft" width="450">
 </p>
 
 | Mashup | Mix |
